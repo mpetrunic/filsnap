@@ -1,4 +1,5 @@
 {
+  "plugins": ["node-workspace"],
   "packages": {
     "packages/adapter": {
       "releaseType": "node",
