@@ -7,11 +7,11 @@
     "url": "https://github.com/Chainsafe/filsnap.git"
   },
   "source": {
-    "shasum": "Knj3/tO5N9tquRH4vhrkCdpBqN6/nNL79jwmCY218hw=",
+    "shasum": "ukjq0pNiZF8/kxpoY4WhcfQ18A7IcJtvuMudFhpuCYE=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
-        "packageName": "@chainsafe/filsnap",
+        "packageName": "@mpetrunic/filsnap",
         "registry": "https://registry.npmjs.org/"
       }
     }
