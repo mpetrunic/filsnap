@@ -31,6 +31,11 @@
       "extra-files": [
         {
           "type": "json",
+          "path": "snap.manifest.json",
+          "jsonpath": "$.version"
+        },
+        {
+          "type": "json",
           "path": "packages/snap/snap.manifest.json",
           "jsonpath": "$.version"
         }
