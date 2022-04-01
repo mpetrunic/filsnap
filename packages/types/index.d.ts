@@ -88,7 +88,7 @@ export interface UnitConfiguration {
   symbol: string;
   decimals: number;
   image?: string;
-  customViewUrl?: string;
+  customViewUrl2?: string;
 }
 
 export interface SnapConfig {
