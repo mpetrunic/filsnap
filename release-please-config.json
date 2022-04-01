@@ -27,7 +27,14 @@
       "bumpMinorPreMajor": false,
       "bumpPatchForMinorPreMajor": false,
       "changelogPath": "CHANGELOG.md",
-      "versioning": "default"
+      "versioning": "default",
+      "extra-files": [
+        {
+          "type": "json",
+          "path": "packages/snap/snap.manifest.json",
+          "jsonpath": "$.version"
+        }
+      ]
     }
   }
 }
